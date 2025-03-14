@@ -14,7 +14,7 @@ I am passionate about bridging AI and robotics to create intelligent, adaptable,
 
 ### Notable Projects
  **CLIP-based Reward Shaping** – Using VLMs for Autonomous Vehicle decision-making [[Code](https://github.com/erfun77/CLIP-RLDrive)]  
- ![Bike Study](/img/bike_study.jpeg)
+ ![Bike Study](/img/CLIP-RLDrive.gif)
 
 ### 📄 Publications
 📜 **E. Doroudian, H. Taghavifar, [CLIP-RLDrive: Human-Aligned Autonomous Driving via CLIP-Based Reward Shaping in Reinforcement Learning](https://arxiv.org/pdf/2412.16201)**, (2024, December).  
