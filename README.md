@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Erfan Doroudian!
-I am a Robotics Engineer with expertise in reinforcement learning, machine learning, and computer vision. I recently earned my M.Sc. from Concordia University, where I conducted research at the LACITS lab (lacits.ca), focusing on robotics, autonomous vehicles, deep learning, and vision-language models (VLMs). My work contributed to advancing human-aligned decision-making in autonomous driving systems. Prior to this, I obtained my Bachelor's degree from K.N. Toosi University of Technology in Tehran.  With a strong background in Python, C++, ROS, MATLAB/Simulink, I have experience developing and deploying intelligent systems and integrating deep learning models with robotic applications.
+I am a Robotics Engineer with expertise in reinforcement learning, machine learning, and computer vision. I recently earned my M.Sc. from Concordia University, where I conducted research at the LACITS lab (lacits.ca), focusing on robotics, autonomous vehicles, deep learning, and vision-language models (VLMs). Prior to this, I obtained my Bachelor's degree from K.N. Toosi University of Technology in Tehran. 
+
+With a strong background in Python, C++, ROS, MATLAB/Simulink, I have experience developing and deploying intelligent systems and integrating deep learning models with robotic applications.
 
 I am passionate about bridging AI and robotics to create intelligent, adaptable, and human-centered systems. I enjoy solving problems at the intersection of AI, control systems, and automation.
 
