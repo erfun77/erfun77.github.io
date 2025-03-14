@@ -18,5 +18,5 @@
 📜 **[Balancing Individual and Collective Interests: ITSC 2024](https://yourpublicationlink)**  
 
 ### 📫 Get in Touch
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [Google Scholar](https://scholar.google.com/citations?user=yourprofile) | [Email](mailto:youremail)
+[LinkedIn](https://www.linkedin.com/in/erfandoroudian/) | [Google Scholar](https://scholar.google.ca/citations?user=8GWQ9_IAAAAJ&hl=en) | [Email](mailto:erfan.droudian@gmail.com)
 
