@@ -4,15 +4,14 @@ I am a Robotics Engineer with expertise in reinforcement learning, machine learn
 I am passionate about bridging AI and robotics to create intelligent, adaptable, and human-centered systems. I enjoy solving problems at the intersection of AI, control systems, and automation.
 
 ### 🔥 Research Interests
-- Reinforcement Learning (PPO, SAC, DQN)
-- Vision-Language Models (CLIP, multimodal learning)
+- Reinforcement Learning
+- Computer Vision
+- Large Language Models (LLMs)
 - Autonomous Vehicles & Human-Aligned Decision-Making
-- Robotics & Cyber-Physical Systems
+- Robotics
 
 ### 🏆 Notable Projects
-🚗 **Autonomous Driving with RL** – Training AVs at unsignalized intersections [[Code](https://github.com/yourrepo)]  
-🦾 **Humanoid Robot RL Training** – RL for humanoid control in OpenAI Gym [[Code](https://github.com/yourrepo)]  
-🖼 **CLIP-based Reward Shaping** – Using VLMs for AV decision-making [[Code](https://github.com/yourrepo)]  
+ **CLIP-based Reward Shaping** – Using VLMs for AV decision-making [[Code](https://github.com/yourrepo)]  
 
 ### 📄 Publications
 📜 **E. Doroudian, H. Taghavifar, [CLIP-RLDrive: Human-Aligned Autonomous Driving via CLIP-Based Reward Shaping in Reinforcement Learning]**, (2024, December).  
