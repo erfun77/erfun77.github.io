@@ -15,7 +15,7 @@ I am passionate about bridging AI and robotics to create intelligent, adaptable,
 ### Notable Projects
  **CLIP-based Reward Shaping** – Using Vision-Language-Models (VLMs) for Autonomous Vehicle decision-making [[Code](https://github.com/erfun77/CLIP-RLDrive)]  
  ![CLIP](/img/CLIP-RLDrive.gif)
-  **Object Detection for a Robotics Manipulator** –Design of an Intelligent Control System for Safe Collaboration between Human and Robotic Manipulator [[Code](https://github.com/erfun77/Multi-class-fruit-classification-using-object-detection-and-audio-classification)]  
+ **Object Detection for a Robotics Manipulator** –Design of an Intelligent Control System for Safe Collaboration between Human and Robotic Manipulator [[Code](https://github.com/erfun77/Multi-class-fruit-classification-using-object-detection-and-audio-classification)]  
  ![CLIP](/img/ROS.png)
   **Designing a Line Follower Robot** – Design of a Line Follower Robot Utilizing SolidWorks for Mechanical Design and Altium for PCB design.
  ![CLIP](/img/Robot.jpg)
