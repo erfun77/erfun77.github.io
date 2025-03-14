@@ -1,11 +1,5 @@
-title: "Erfan Doroudian"
-description: "AI Researcher | RL, Autonomous Driving, Vision-Language Models"
-baseurl: ""
-url: "https://yourusername.github.io"
-
-# Navigation
-header_pages:
-  - index.md
-  - projects.md
-  - publications.md
-  - about.md
+title: Erfan Doroudian
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: false
+theme: jekyll-theme-minimal
