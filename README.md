@@ -13,12 +13,17 @@ I am passionate about bridging AI and robotics to create intelligent, adaptable,
 - Robotics
 
 ### Notable Projects
- **CLIP-based Reward Shaping** – Using Vision-Language-Models (VLMs) for Autonomous Vehicle decision-making [[Code](https://github.com/erfun77/CLIP-RLDrive)]  
- ![CLIP](/img/CLIP-RLDrive.gif)
- **Object Detection for a Robotics Manipulator** –Design of an Intelligent Control System for Safe Collaboration between Human and Robotic Manipulator [[Code](https://github.com/erfun77/Multi-class-fruit-classification-using-object-detection-and-audio-classification)]  
- ![CLIP](/img/ROS.png)
-  **Designing a Line Follower Robot** – Design of a Line Follower Robot Utilizing SolidWorks for Mechanical Design and Altium for PCB design.
- ![CLIP](/img/Robot.jpg)
+#### **CLIP-based Reward Shaping** – Using Vision-Language-Models (VLMs) for Autonomous Vehicle decision-making  
+[[Code](https://github.com/erfun77/CLIP-RLDrive)]  
+<img src="/img/CLIP-RLDrive.gif" alt="CLIP" width="400">  
+&nbsp;  
+#### **Object Detection for a Robotics Manipulator** – Design of an Intelligent Control System for Safe Collaboration between Human and Robotic Manipulator  
+[[Code](https://github.com/erfun77/Multi-class-fruit-classification-using-object-detection-and-audio-classification)]  
+<img src="/img/ROS.png" alt="Object Detection" width="400">  
+&nbsp;  
+#### **Designing a Line Follower Robot** – Design of a Line Follower Robot Utilizing SolidWorks for Mechanical Design and Altium for PCB design.  
+<img src="/img/Robot.jpg" alt="Line Follower Robot" width="400">  
+&nbsp;  
 
 ### 📄 Publications
 📜 **E. Doroudian, H. Taghavifar, [CLIP-RLDrive: Human-Aligned Autonomous Driving via CLIP-Based Reward Shaping in Reinforcement Learning](https://arxiv.org/pdf/2412.16201)**, (2024, December).  
